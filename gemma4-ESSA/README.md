@@ -4,7 +4,6 @@ Instead of calculating gradients, ESSA uses evolutionary strategies and black-bo
 https://arxiv.org/pdf/2507.04453
 
 ## Goal
-Witty anime persona assistant
+Witty assistant
 Datasets:
 - https://huggingface.co/datasets/Middletownbooks/joke_training
-- https://huggingface.co/datasets/google/gemma-3-1b-it-instruct
